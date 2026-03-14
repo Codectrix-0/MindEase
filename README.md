@@ -1,1 +1,1 @@
-Mindease
+MindEase
