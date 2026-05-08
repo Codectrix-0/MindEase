@@ -141,9 +141,6 @@ Contributions and suggestions are welcome!
 
 ---
 
-👩‍💻 Author
-
-Divya Mer 🚀
 
 💻 First Year Engineering Student
 🌱 Learning Web Development & Open Source
